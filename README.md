@@ -2,6 +2,7 @@
 [![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-stand-out-of-my-sun-diogenes-web-scraping-engine-mcp-a10dba4d/badge.svg)](https://www.tensorblock.co/mcp/servers/github-stand-out-of-my-sun-diogenes-web-scraping-engine-mcp-a10dba4d?client=cursor)
 
 [![Glama MCP Server Score](https://glama.ai/mcp/servers/stand-out-of-my-sun/diogenes-web-scraping-engine-mcp/badges/score.svg)](https://glama.ai/mcp/servers/stand-out-of-my-sun/diogenes-web-scraping-engine-mcp)
+[![M8ven Score](https://m8ven.ai/badge/mcp/stand-out-of-my-sun-diogenes-web-scraping-engine-mcp-1841p4?v=b907960d7b43e88a0c703f1fe49a6895)](https://m8ven.ai/mcp/stand-out-of-my-sun-diogenes-web-scraping-engine-mcp-1841p4?s=readme)
 [![Smithery](https://smithery.ai/badge/@stand-out-of-my-sun/diogenes-web-scraping-engine-mcp)](https://smithery.ai/server/@stand-out-of-my-sun/diogenes-web-scraping-engine-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 
