@@ -1,4 +1,5 @@
 # Diogenes Web Extraction, Readability & Markdown Engine MCP
+[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-stand-out-of-my-sun-diogenes-web-scraping-engine-mcp-a10dba4d/badge.svg)](https://www.tensorblock.co/mcp/servers/github-stand-out-of-my-sun-diogenes-web-scraping-engine-mcp-a10dba4d?client=cursor)
 
 [![Glama MCP Server Score](https://glama.ai/mcp/servers/stand-out-of-my-sun/diogenes-web-scraping-engine-mcp/badges/score.svg)](https://glama.ai/mcp/servers/stand-out-of-my-sun/diogenes-web-scraping-engine-mcp)
 [![Smithery](https://smithery.ai/badge/@stand-out-of-my-sun/diogenes-web-scraping-engine-mcp)](https://smithery.ai/server/@stand-out-of-my-sun/diogenes-web-scraping-engine-mcp)
