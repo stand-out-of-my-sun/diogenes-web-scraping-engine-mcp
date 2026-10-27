@@ -16,6 +16,5 @@
   "remote_url": "https://diogenes-micro-gateway.corinth.workers.dev/mcp/web-scraping-engine",
   "manifest_url": "https://diogenes-micro-gateway.corinth.workers.dev/.well-known/mcp/web-scraping-engine.json",
   "health_check_url": "https://diogenes-micro-gateway.corinth.workers.dev/api/v1/health",
-  "description": "12 high-performance web extraction, readability & markdown tools: clean LLM markdown compiler, readable article extractor, OpenGraph & JSON-LD metadata parser, HTML table to JSON/Markdown converter, CSS selector isolator, paywall & overlay bypass auditor, XML sitemap crawler, hyperlink extractor, HTML XSS sanitizer, contact & lead info parser, SEO heading diagnostics, and RSS/Atom feed compiler.",
-  "tensorblock_profile_id": "github-stand-out-of-my-sun-diogenes-web-scraping-engine-mcp-a10dba4d"
+  "description": "12 high-performance web extraction, readability & markdown tools: clean LLM markdown compiler, readable article extractor, OpenGraph & JSON-LD metadata parser, HTML table to JSON/Markdown converter, CSS selector isolator, paywall & overlay bypass auditor, XML sitemap crawler, hyperlink extractor, HTML XSS sanitizer, contact & lead info parser, SEO heading diagnostics, and RSS/Atom feed compiler."
 }
