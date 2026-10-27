@@ -1,6 +1,6 @@
 {
   "name": "@stand-out-of-my-sun/diogenes-web-scraping-engine-mcp",
-  "version": "1.0.0",
+  "version": "1.4.0",
   "description": "12 high-performance web extraction, readability & markdown tools: clean LLM markdown compiler, readable article extractor, OpenGraph & JSON-LD metadata parser, HTML table to JSON/Markdown converter, CSS selector isolator, paywall & overlay bypass auditor, XML sitemap crawler, hyperlink extractor, HTML XSS sanitizer, contact & lead info parser, SEO heading diagnostics, and RSS/Atom feed compiler.",
   "license": "MIT",
   "author": "@stand-out-of-my-sun",
@@ -17,7 +17,7 @@
     "diogenes-web-scraping-engine-mcp": "index.js"
   },
   "scripts": {
-    "test": "node --test test/*.test.mjs"
+    "start": "node index.js"
   },
   "keywords": [
     "mcp",
@@ -25,20 +25,15 @@
     "web-scraping",
     "html-to-markdown",
     "readability",
+    "metadata-extractor",
+    "seo",
+    "rss",
     "crawler",
-    "sitemap",
-    "json-ld",
-    "opengraph",
-    "html-sanitizer",
-    "seo-audit",
-    "rss-feed",
+    "streamable-http",
     "glama",
     "tensorblock",
     "l402",
-    "x402",
-    "mpp",
-    "streamable-http",
-    "ai-agents"
+    "x402"
   ],
   "mcp": {
     "serverId": "io.github.stand-out-of-my-sun/diogenes-web-scraping-engine",
@@ -51,9 +46,5 @@
     "installConfidence": "high",
     "verification": "verified",
     "toolsCount": 12
-  },
-  "type": "module",
-  "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.6.0"
   }
 }
