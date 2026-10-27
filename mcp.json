@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "web-scraping-engine": {
+    "diogenes-web-scraping-engine": {
       "transport": "streamable-http",
       "url": "https://diogenes-micro-gateway.corinth.workers.dev/mcp/web-scraping-engine",
       "auth": "none",
