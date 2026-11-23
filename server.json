@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
   "name": "io.github.stand-out-of-my-sun/diogenes-web-scraping-engine",
-  "description": "12 edge web extraction & markdown tools: LLM markdown compiler, readable article parser, OpenGraph/JSON-LD extractor, HTML table converter, CSS selector scraper, sitemap crawler, and RSS compiler.",
+  "description": "12 high-performance web extraction, readability & markdown tools: clean LLM markdown compiler, readable article extractor, OpenGraph & JSON-LD metadata parser, HTML table to JSON/Markdown converter, C",
   "version": "1.4.0",
   "license": "MIT",
   "maintainer": "@stand-out-of-my-sun",
