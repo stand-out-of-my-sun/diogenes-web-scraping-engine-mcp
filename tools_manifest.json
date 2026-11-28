@@ -62,7 +62,10 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price_sats": 0,
+    "price": "Free Developer Tier (0 sats)",
+    "protocol": "Free"
   },
   {
     "name": "scrape_readable_article",
@@ -132,7 +135,10 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price_sats": 0,
+    "price": "Free Developer Tier (0 sats)",
+    "protocol": "Free"
   },
   {
     "name": "extract_structured_metadata",
@@ -197,7 +203,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "parse_html_tables",
@@ -257,7 +264,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "isolate_css_selectors",
@@ -318,7 +326,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "detect_paywall_and_bypass",
@@ -383,7 +392,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "crawl_sitemap_urls",
@@ -443,7 +453,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "extract_page_hyperlinks",
@@ -504,7 +515,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "sanitize_html_content",
@@ -564,7 +576,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "extract_contact_info",
@@ -629,7 +642,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "evaluate_seo_diagnostics",
@@ -694,7 +708,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "compile_rss_feed",
@@ -755,6 +770,7 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   }
 ]
